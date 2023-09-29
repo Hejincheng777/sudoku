@@ -1,1 +1,2 @@
 # sudoku
+下载homework的压缩包后解压缩，确保电脑里有Python和Python的flask库，运行server.py，打开运行结果里的网址即可
